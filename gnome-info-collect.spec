@@ -24,7 +24,7 @@ The collected data is anonymous and is sent to a secure server.
 The data will be used only for the purpose of enhancing usability and user experience of GNOME.
     
 %prep
-%autosetup %{name}-1.0-7 -p1
+%autosetup %{name}-v1.0-7 -p1
 
 %build
 %meson
