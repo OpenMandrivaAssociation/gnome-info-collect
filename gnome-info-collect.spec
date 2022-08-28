@@ -4,7 +4,7 @@ Release:        1
 Summary:        A simple utility to collect system information
 License:        GPL-3.0
 URL:            https://gitlab.gnome.org/vstanek/gnome-info-collect
-Source:         https://gitlab.gnome.org/vstanek/gnome-info-collect/-/archive/v1.0-7/gnome-info-collect-v1.0-7.tar.gz
+Source:         https://gitlab.gnome.org/vstanek/gnome-info-collect/-/archive/v1.0-7/gnome-info-collect-v1.0-7.tar.bz2
 
 BuildRequires: meson
 BuildRequires: gobject-introspection
